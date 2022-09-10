@@ -1,0 +1,1 @@
+# dell.monitor.entering.power.save.mode
